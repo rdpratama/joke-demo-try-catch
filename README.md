@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge/competition/the-joke-about-the-demo-20261123-0112)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
-[![make.fun](https://make.fun/badge/submission/the-joke-about-the-demo-20261123-0112)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
-[![make.fun](https://make.fun/badge/leaderboard/the-joke-about-the-demo-20261123-0112)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
+[![make.fun](https://make.fun/badge/the-joke-about-the-demo-20261123-0112.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
+[![make.fun rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/rdpratama/joke-demo-try-catch/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
+[![make.fun reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/rdpratama/joke-demo-try-catch/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
 
 # The demo crashed, so my agent wrapped the whole app in try/catch
 
